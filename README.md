@@ -3,7 +3,7 @@
 - 👨‍💻 二年後 -> エンジニア
 - 👨‍🎓 専門校生
 - 📝 バックエンド -> NodeJS, フロントエンド -> Vue React
-- 💕 オープンソース
+- 💕 TypeScript
 - ⭐️ Any application that can be written in JavaScript, will eventually be written in JavaScript.
 
 [👀ポートフォリオ](https://李.jp)（開発予定）
