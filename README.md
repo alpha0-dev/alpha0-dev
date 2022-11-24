@@ -6,7 +6,7 @@
 - 💕 TypeScript
 - ⭐️ Any application that can be written in JavaScript, will eventually be written in JavaScript.
 
-[👀ポートフォリオ](https://李.jp)（開発予定）
+[👀ポートフォリオ](https://codelzn.com)（開発予定）
 
 これから勉強していく技術
 ![skills](https://skillicons.dev/icons?i=ps,ai,xd,figma,blender,vscode,git,github,html,css,js,sass,ts,tailwind,react,nextjs,vue,nuxtjs,vite,nodejs,express,nestjs,graphql,aws,firebase,vercel,docker,md,stackoverflow)
