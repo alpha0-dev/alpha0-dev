@@ -1,7 +1,5 @@
 # Nice to meet you
 
-------
-
 ### 👨‍💻 `let codelzn: "Frontend Engineer" | "UI Designer" = "Frontend Engineer"`
 
 ![skills](https://skillicons.dev/icons?i=figma,blender,nextjs,nuxtjs,nestjs,prisma)
