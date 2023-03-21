@@ -1,4 +1,4 @@
-# Nice to meet you
+[![](kokomi.jpg)](https://codelzn.com)
 
 ### 👨‍💻 `let codelzn: "Frontend Engineer" | "UI Designer" = "Frontend Engineer"`
 
