@@ -1,4 +1,4 @@
-[![](kokomi.jpg)](https://codelzn.com)
+[![](kokomi.jpg)](https://codelzn-namecard.vercel.app)
 
 ### 👨‍💻 `let codelzn: "Frontend Engineer" | "UI Designer" = "Frontend Engineer"`
 
