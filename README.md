@@ -1,5 +1,3 @@
-[![](kokomi.jpg)](https://codelzn-namecard.vercel.app)
-
 ### 👨‍💻 `let codelzn: "Frontend Engineer" | "UI Designer" = "Frontend Engineer"`
 
 ![skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,prisma)
