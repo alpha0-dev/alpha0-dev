@@ -1,4 +1,4 @@
-### 👨‍💻 `let codelzn: "Frontend Engineer" | any = "Frontend Engineer"`
+### 👨‍💻 `let codelzn: "TypeScript Developer" | any = "TypeScript Developer"`
 
 ![skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,prisma)
 
