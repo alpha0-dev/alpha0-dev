@@ -1,4 +1,4 @@
-### 👨‍💻 `TypeScript Developer`
+### 👨‍💻 TypeScript Developer
 
 ![skills](https://skillicons.dev/icons?i=vercel,nextjs)
 
