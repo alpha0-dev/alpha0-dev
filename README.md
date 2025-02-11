@@ -1,4 +1,4 @@
-### Cook Ship
+### Cook and Ship
 
 ![skills](https://skillicons.dev/icons?i=vercel,nextjs)
 
